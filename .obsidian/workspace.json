@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1a56f527ba2578c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP Report Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OSCP Report Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OSCP Report Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OSCP Report Template.md"
               }
             }
           }
@@ -146,6 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d793fa0176ef5412",
-  "lastOpenFiles": []
+  "active": "d1a56f527ba2578c",
+  "lastOpenFiles": [
+    "README.md",
+    "OSCP Report Template.md",
+    "OSCP Report Template"
+  ]
 }
