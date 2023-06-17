@@ -1,2 +1,3 @@
 # oscpjourney
-From zero to hero on my journey with OSCP
+From zero to hero on my journey with OSCP.
+
